@@ -21,4 +21,12 @@
         android:layout_height="wrap_content"
         android:text="Map View"
         app:layout_constraintTop_toBottomOf="@+id/button1"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Marker"
+        app:layout_constraintTop_toBottomOf="@+id/button2"/>
+
 </android.support.constraint.ConstraintLayout>
